@@ -92,5 +92,4 @@ This project demonstrates how machine learning and deep learning techniques can 
 It highlights the importance of **data balance**, **model comparison**, and **visual insights** for better understanding and decision-making.
 
 
-[LinkedIn](https://www.linkedin.com) | [GitHub](https://github.com)  
 
