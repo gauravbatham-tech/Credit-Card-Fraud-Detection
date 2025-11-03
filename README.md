@@ -74,15 +74,7 @@ This notebook includes:
 | Logistic Regression | ~94% | 0.94 | Baseline linear model |
 | Random Forest | ~99% | 0.99 | Best performing classical model |
 | XGBoost | ~99% | 0.99 | Competitive, efficient |
-| Autoencoder | ~97% | 0.97 | Effective unsupervised detection |
-
----
-
-## 🔍 Future Improvements
-- Use more advanced models like **CatBoost** or **LightGBM**  
-- Build a **Streamlit dashboard** for real-time fraud detection  
-- Deploy the model using **Flask** or **FastAPI**  
-- Use **SHAP** for feature interpretability  
+| Autoencoder | ~97% | 0.97 | Effective unsupervised detection | 
 
 ---
 
